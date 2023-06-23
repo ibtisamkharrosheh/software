@@ -16,7 +16,7 @@ public class Signup {
 	@Given("I am on the sign-up page")
 	public void i_am_on_the_sign_up_page() {
 	    // Write code here that turns the phrase above into concrete actions
-	    //throw new io.cucumber.java.PendingException();
+	   // throw new io.cucumber.java.PendingException();
 	}
 	@When("I enter my name as {string}")
 	public void i_enter_my_name_as(String string) {
